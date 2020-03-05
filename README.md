@@ -97,6 +97,10 @@ h3 {
 
 [No boundaries: Exfiltration of personal data by session-replay scripts](https://freedom-to-tinker.com/2017/11/15/no-boundaries-exfiltration-of-personal-data-by-session-replay-scripts/)
 
+[NYTimes: Location Tracking](https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html)
+
+[NYTimes: ClearView](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html)
+
 ### iii. machine learning/deep learning + neural networks
 
 [A Simple Sticker Tricked Neural Networks Into Classifying Anything as a Toaster](https://gizmodo.com/this-simple-sticker-can-trick-neural-networks-into-thin-1821735479)
@@ -139,6 +143,12 @@ h3 {
 
 [Convnet Demo](https://www.cs.ryerson.ca/~aharley/vis/conv/)
 
+[Google Arts and Culture t-SNE](https://experiments.withgoogle.com/t-sne-map)
+
+[Machine Learning for Artists (ML4A)](https://ml4a.github.io/)
+
+[Google Experiments AI Collection](https://experiments.withgoogle.com/collection/ai)
+
 ### iv. art
 
 [Ben Grosser – _Order of Magnitude_ (2019)](https://bengrosser.com/projects/order-of-magnitude/)
@@ -168,5 +178,7 @@ h3 {
 [Benjamin Bratton 90-minute lecture on _The Stack: On Software and Sovereignty_](https://www.youtube.com/watch?v=IXan6TvMqgk&t=2348s)
 
 [Trevor Paglen - Invisible Images (Your Pictures Are Looking at You)](https://thenewinquiry.com/invisible-images-your-pictures-are-looking-at-you/)
+
+[Excavating AI: The Politics of Images in Machine Learning Training Sets – Kate Crawford and Trevor Paglen](https://www.excavating.ai/)
 
 
