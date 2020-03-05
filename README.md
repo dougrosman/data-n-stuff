@@ -38,8 +38,8 @@ h3 {
 </style>
 
 
-## Doug Rosman
-#### dougrosman.com || [@thedougrosmanstory](https://www.instagram.com/thedougrosmanstory/)
+## Data 'n' Stuff // Doug Rosman
+#### [dougrosman.com](http://dougrosman.com) || [@thedougrosmanstory](https://www.instagram.com/thedougrosmanstory/)
 
 ##### A collection of links and ideas to accompany a lecture about Big Data/machine learning/computational technology/Art/etc.
 
@@ -76,7 +76,8 @@ h3 {
 
 [Facebook Figured Out My Family Secrets, And It Won't Tell Me How](https://gizmodo.com/facebook-figured-out-my-family-secrets-and-it-wont-tel-1797696163)
 
-[Target + Big Data + Pregnancy Predictions](https://slate.com/human-interest/2014/06/big-data-whats-even-creepier-than-target-guessing-that-youre-pregnant.html) || [How Target Figured Out A Teen Girl Was Pregnant Before Her Father Did](https://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did)
+[Target + Big Data + Pregnancy Predictions](https://slate.com/human-interest/2014/06/big-data-whats-even-creepier-than-target-guessing-that-youre-pregnant.html)
+[How Target Figured Out A Teen Girl Was Pregnant Before Her Father Did](https://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did)
 
 [A Stanford scientist says he built a gaydar using “the lamest” AI to prove a point](https://qz.com/1078901/a-stanford-scientist-says-he-built-a-gaydar-using-the-lamest-ai-to-prove-a-point/)
 * "Technology cannot identify someone’s sexual orientation. What their technology can recognize is a pattern that found a small subset of out, white gay and lesbian people on dating sites who look similar. Those two findings should not be conflated,” Jim Halloran, GLAAD’s chief digital officer, wrote in a statement claiming the paper could cause harm exposing methods to target gay people."
@@ -84,12 +85,13 @@ h3 {
 [Ripple Privacy Policy](https://ripple.com/privacy-policy/)
 
 ### iii. machine learning/deep learning + neural networks
-[“RACIST” GOVERNMENT PASSPORT SYSTEM REJECTS BLACK MAN’S PHOTO DESPITE MEETING ALL CRITERIA](https://www.diyphotography.net/racist-government-passport-system-rejects-black-mans-photo-despite-meeting-all-criteria/)
+["Racist" Government Passport System Rejects Black Man's Photo Despite Meeting All Criteria](https://www.diyphotography.net/racist-government-passport-system-rejects-black-mans-photo-despite-meeting-all-criteria/)
 [Online Database ImageNet to Remove 600,000 Images After Art Project Exposes Its Racist and Gender Bias](https://www.diyphotography.net/online-database-imagenet-to-remove-600000-images-after-art-project-exposes-its-racist-and-gender-bias/)
 [Banana Sticker](https://gizmodo.com/this-simple-sticker-can-trick-neural-networks-into-thin-1821735479)
 [Kaggle.com](https://kaggle.com)
 [End-to-End Deep Image Reconstruction From Human Brain Activity](https://www.frontiersin.org/articles/10.3389/fncom.2019.00021/full)
-[imageNet](https://en.wikipedia.org/wiki/ImageNet#Bias_in_ImageNet) || [imageNet Site](http://www.image-net.org/)
+[imageNet](https://en.wikipedia.org/wiki/ImageNet#Bias_in_ImageNet)
+[imageNet Site](http://www.image-net.org/)
 
 ### iv. art
 
@@ -101,7 +103,8 @@ h3 {
 [Banner Blindness](https://www.nngroup.com/articles/banner-blindness-old-and-new-findings/)
 [Kardashian Krypt](chrome-extension://iimkanmiajlnbbkcbhmdknlljngfipli/page.html)
 [Tech Veganism](linktothat)
-[Can We Detect Neural Image Generators?](https://www.youtube.com/watch?v=mjl4NEMG0JE) || [Detecting deepfakes by looking closely reveals a way to protect against them](https://theconversation.com/detecting-deepfakes-by-looking-closely-reveals-a-way-to-protect-against-them-119218)
+[Can We Detect Neural Image Generators?](https://www.youtube.com/watch?v=mjl4NEMG0JE
+[Detecting deepfakes by looking closely reveals a way to protect against them](https://theconversation.com/detecting-deepfakes-by-looking-closely-reveals-a-way-to-protect-against-them-119218)
 [TOR (The Onion Router)](torlink)
 [SQL-Injection Bumper Sticker](https://hackaday.com/2014/04/04/sql-injection-fools-speed-traps-and-clears-your-record/) ([Bobby Tables](https://xkcd.com/327/))
 
