@@ -179,13 +179,21 @@ h3 {
 [Seven on Seven 2016: Miranda July & Paul Ford](https://vimeo.com/167171454)
 
 ### iv. defense strategies?
+
 [Banner Blindness](https://www.nngroup.com/articles/banner-blindness-old-and-new-findings/)
+
 [Kardashian Krypt](chrome-extension://iimkanmiajlnbbkcbhmdknlljngfipli/page.html)
+
 [Tech Veganism](https://nolanlawson.com/2019/05/31/tech-veganism/)
+
 [Can We Detect Neural Image Generators?](https://www.youtube.com/watch?v=mjl4NEMG0JE)
+
 [Detecting deepfakes by looking closely reveals a way to protect against them](https://theconversation.com/detecting-deepfakes-by-looking-closely-reveals-a-way-to-protect-against-them-119218)
+
 [VPNs (Virtual Private Networks)](https://www.techradar.com/vpn/best-vpn)
+
 [TOR (The Onion Router)](https://www.torproject.org/)
+
 [SQL-Injection Bumper Sticker](https://hackaday.com/2014/04/04/sql-injection-fools-speed-traps-and-clears-your-record/) ([Bobby Tables](https://xkcd.com/327/))
 
 
