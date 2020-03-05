@@ -52,8 +52,9 @@ h3 {
 * Two (?) ways of thinking about surveillance/data capture/predictive modeling
     * Practical/Actionable (how does the availability of your data make you a target of government, corporate, or "other" action?)
     * Personal/Psychological (how do you incorporate an AI's understanding of "you" into your own self-understanding?)
-* The Age of Surveillance Capitalism: "Behavioral Exhaust"
+* The Age of Surveillance Capitalism: "Behavioral Exhaust"/Behavioral Surplus
 * It's easier to capture and store ALL your data than it is to determine and capture only what is considered "useful." (especially since what might not be useful now may someday become useful)
+* We can be connected and compared to each other in ways that defy human language.
 
 ### i. me?
 
@@ -148,6 +149,10 @@ h3 {
 [Machine Learning for Artists (ML4A)](https://ml4a.github.io/)
 
 [Google Experiments AI Collection](https://experiments.withgoogle.com/collection/ai)
+
+[Subvocalizations to Text](https://www.youtube.com/watch?v=RuUSc53Xpeg&list=PLVFnIENoSt3hQFM4a6Kw1wq-ltCrq8bIL&index=3)
+
+[Subreddit Simulator](https://www.reddit.com/r/SubSimulatorGPT2/top/?t=all)
 
 ### iv. art
 
