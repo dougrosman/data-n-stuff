@@ -206,7 +206,7 @@ h3 {
 
 ### Further Reading/Watching (to be updated):
 
-[Benjamin Bratton 90-minute lecture on _The Stack: On Software and Sovereignty_](https://www.youtube.com/watch?v=IXan6TvMqgk&t=2348s)
+[Benjamin Bratton 90-minute lecture on _The Stack: On Software and Sovereignty_](https://www.youtube.com/watch?v=IXan6TvMqgk&t=2348s) [The Stack Image](https://fsbrg.net/a-design-brief-for-the-planet)
 
 [Trevor Paglen - Invisible Images (Your Pictures Are Looking at You)](https://thenewinquiry.com/invisible-images-your-pictures-are-looking-at-you/)
 
