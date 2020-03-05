@@ -63,7 +63,8 @@ h3 {
 4. The foundational framework of a surveillance economy;
 5. As significant a threat to human nature in the twenty-first century as industrial capitalism was to the natural world in the nineteenth and twentieth
 6. The origin of a new instrumentarian power that asserts dominance over society and presents startling challenges to market democracy;
-7. A movement that aims to impose a new collective order based on total certainty; 8. An expropriation of critical human rights that is best understood as a coup from above: an overthrow of the people’s sovereignty.
+7. A movement that aims to impose a new collective order based on total certainty;
+8. An expropriation of critical human rights that is best understood as a coup from above: an overthrow of the people’s sovereignty.
 
 <br>
 
