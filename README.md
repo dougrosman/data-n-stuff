@@ -102,6 +102,8 @@ h3 {
 
 [NYTimes: ClearView](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html)
 
+[NYTimes: Before Clearview Became a Police Tool, It Was a Secret Plaything of the Rich](https://www.nytimes.com/2020/03/05/technology/clearview-investors.html)
+
 ### iii. machine learning/deep learning + neural networks
 
 [A Simple Sticker Tricked Neural Networks Into Classifying Anything as a Toaster](https://gizmodo.com/this-simple-sticker-can-trick-neural-networks-into-thin-1821735479)
