@@ -84,7 +84,7 @@ h3 {
 
 [Facebook Figured Out My Family Secrets, And It Won't Tell Me How](https://gizmodo.com/facebook-figured-out-my-family-secrets-and-it-wont-tel-1797696163)
 
-[Target + Big Data + Pregnancy Predictions](https://slate.com/human-interest/2014/06/big-data-whats-even-creepier-than-target-guessing-that-youre-pregnant.html)
+[Target + Big Data + Pregnancy Predictions](https://slate.com/human-interest/2014/06/big-data-whats-even-creepier-than-target-guessing-that-youre-pregnant.html), 
 [How Target Figured Out A Teen Girl Was Pregnant Before Her Father Did](https://www.forbes.com/sites/kashmirhill/2012/02/16/how-target-figured-out-a-teen-girl-was-pregnant-before-her-father-did)
 
 [A Stanford scientist says he built a gaydar using “the lamest” AI to prove a point](https://qz.com/1078901/a-stanford-scientist-says-he-built-a-gaydar-using-the-lamest-ai-to-prove-a-point/)
@@ -94,6 +94,8 @@ h3 {
 [Online Database ImageNet to Remove 600,000 Images After Art Project Exposes Its Racist and Gender Bias](https://www.diyphotography.net/online-database-imagenet-to-remove-600000-images-after-art-project-exposes-its-racist-and-gender-bias/)
 
 [Ripple Privacy Policy](https://ripple.com/privacy-policy/)
+
+[No boundaries: Exfiltration of personal data by session-replay scripts](https://freedom-to-tinker.com/2017/11/15/no-boundaries-exfiltration-of-personal-data-by-session-replay-scripts/)
 
 ### iii. machine learning/deep learning + neural networks
 
@@ -125,6 +127,18 @@ h3 {
 
 [This Person Does Not Exist](https://www.thispersondoesnotexist.com/)
 
+[Teachable Machine](https://teachablemachine.withgoogle.com/)
+
+[RunwayML](https://runwayml.com/)
+
+[The Coding Train Runway Tutorials](https://www.youtube.com/watch?v=ARnf4ilr9Hc)
+
+[Simple Introduction to Convolutional Neural Networks](https://towardsdatascience.com/simple-introduction-to-convolutional-neural-networks-cdf8d3077bac)
+
+[Convnet Features Image](https://miro.medium.com/max/3820/1*fLGuAUT5imTIGAeA4zzaWA.png)
+
+[Convnet Demo](https://www.cs.ryerson.ca/~aharley/vis/conv/)
+
 ### iv. art
 
 [Ben Grosser – _Order of Magnitude_ (2019)](https://bengrosser.com/projects/order-of-magnitude/)
@@ -152,5 +166,7 @@ h3 {
 ### Further Reading/Watching (to be updated):
 
 [Benjamin Bratton 90-minute lecture on _The Stack: On Software and Sovereignty_](https://www.youtube.com/watch?v=IXan6TvMqgk&t=2348s)
+
+[Trevor Paglen - Invisible Images (Your Pictures Are Looking at You)](https://thenewinquiry.com/invisible-images-your-pictures-are-looking-at-you/)
 
 
