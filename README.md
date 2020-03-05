@@ -19,21 +19,26 @@ h1 {
     margin-top: 30px;
 }
 
+
 h2, h3 {
-    margin: 5px 0;
+    margin-top: 20px;
+}
+
+h3 {
+    font-weight: 700;
 }
 
 </style>
 
 
-# Data 'n' Stuff
-
 ## Doug Rosman
 #### dougrosman.com || [@thedougrosmanstory](https://www.instagram.com/thedougrosmanstory/)
 
-## 
+##### A collection of links and ideas to accompany a lecture about Big Data/machine learning/computational technology/Art/etc.
 
-### A collection of links and ideas to accompany a lecture about Big Data/machine learning/computational technology/Art/etc.
+### i. my background
+
+[creep, weirdo, weirdie, weirdy, spook](images/weirdie.jpg)
 
 
 
