@@ -39,7 +39,12 @@ h3 {
 
 
 ## Data 'n' Stuff // Doug Rosman
+<br>
+
+![qr code](images/qr.png)
 #### [dougrosman.com](http://dougrosman.com) || [@thedougrosmanstory](https://www.instagram.com/thedougrosmanstory/)
+
+<br>
 
 ##### A collection of links and ideas to accompany a lecture about Big Data/machine learning/computational technology/Art/etc.
 
@@ -58,10 +63,11 @@ h3 {
 
 [Instagram](https://www.instagram.com/accounts/access_tool/ads_interests)
 
-[imin [a box]](http://dougrosman.com/imin-a-box)
-[I don't have you but you've still got my heart](linktothat)
+[imin [a box]](http://dougrosman.com/imin/)
 
-[self-contained](linktothat)
+[I don't have you but you've still got my heart](http://dougrosman.com/i-dont-have-you/)
+
+[self-contained](http://dougrosman.com/self-contained-ii/)
 
 
 ### ii. Big Data + eerie predictions
@@ -87,11 +93,16 @@ h3 {
 ### iii. machine learning/deep learning + neural networks
 ["Racist" Government Passport System Rejects Black Man's Photo Despite Meeting All Criteria](https://www.diyphotography.net/racist-government-passport-system-rejects-black-mans-photo-despite-meeting-all-criteria/)
 [Online Database ImageNet to Remove 600,000 Images After Art Project Exposes Its Racist and Gender Bias](https://www.diyphotography.net/online-database-imagenet-to-remove-600000-images-after-art-project-exposes-its-racist-and-gender-bias/)
-[Banana Sticker](https://gizmodo.com/this-simple-sticker-can-trick-neural-networks-into-thin-1821735479)
-[Kaggle.com](https://kaggle.com)
+[A Simple Sticker Tricked Neural Networks Into Classifying Anything as a Toaster](https://gizmodo.com/this-simple-sticker-can-trick-neural-networks-into-thin-1821735479)
+[Kaggle.com (publicly available datasets and data science bounties)](https://kaggle.com)
 [End-to-End Deep Image Reconstruction From Human Brain Activity](https://www.frontiersin.org/articles/10.3389/fncom.2019.00021/full)
-[imageNet](https://en.wikipedia.org/wiki/ImageNet#Bias_in_ImageNet)
+[imageNet Wikipedia](https://en.wikipedia.org/wiki/ImageNet#Bias_in_ImageNet)
 [imageNet Site](http://www.image-net.org/)
+[Image Classifier Demo](https://codesandbox.io/s/z364noozrm)
+[Gender Classifier Tutorial](https://www.youtube.com/watch?v=kOymVLU9Ws8)
+[StyleGan (Explanation)](https://www.youtube.com/watch?v=kSLJriaOumA)
+[StyleGan (Interpolation Loop)](https://www.youtube.com/watch?v=6E1_dgYlifc)
+[Moral Machine](http://moralmachine.mit.edu/)
 
 ### iv. art
 
@@ -105,7 +116,8 @@ h3 {
 [Tech Veganism](linktothat)
 [Can We Detect Neural Image Generators?](https://www.youtube.com/watch?v=mjl4NEMG0JE)
 [Detecting deepfakes by looking closely reveals a way to protect against them](https://theconversation.com/detecting-deepfakes-by-looking-closely-reveals-a-way-to-protect-against-them-119218)
-[TOR (The Onion Router)](torlink)
+[VPNs (Virtual Private Networks)](https://www.techradar.com/vpn/best-vpn)
+[TOR (The Onion Router)](https://www.torproject.org/)
 [SQL-Injection Bumper Sticker](https://hackaday.com/2014/04/04/sql-injection-fools-speed-traps-and-clears-your-record/) ([Bobby Tables](https://xkcd.com/327/))
 
 
