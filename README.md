@@ -40,6 +40,11 @@ h3 {
 
 [creep, weirdo, weirdie, weirdy, spook](images/weirdie.jpg)
 
+[Facebook Ad Preferences](https://www.facebook.com/ads/preferences)
+
+[Ben Grosser – _Order of Magnitude_](https://vimeo.com/333795857)
+
+
 
 
 
