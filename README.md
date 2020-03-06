@@ -113,7 +113,7 @@ h3 {
 
 [No boundaries: Exfiltration of personal data by session-replay scripts](https://freedom-to-tinker.com/2017/11/15/no-boundaries-exfiltration-of-personal-data-by-session-replay-scripts/)
 
-[NYTimes: Location Tracking](https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html)
+[NYTimes: Location Tracking](articles/Your-Apps-Know-Where-You-Were-Last-Night-and-Theyre-Not-Keeping-It-Secret.html)
 
 [NYTimes: ClearView](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html)
 
